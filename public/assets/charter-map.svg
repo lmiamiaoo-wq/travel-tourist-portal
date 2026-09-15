@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000">
+<rect width="1200" height="1000" fill="#f1f3ed"/>
+<g fill="#dcead5"><path d="M0 0H430L350 210 180 340 0 290Z"/><path d="M760 0H1200V400L1040 280 830 180Z"/><path d="M0 660L190 580 310 690 470 860 390 1000H0Z"/><path d="M950 650L1200 600V1000H790L810 860Z"/></g>
+<g fill="#e3e6e7"><rect x="625" y="255" width="100" height="75" rx="10"/><rect x="755" y="270" width="125" height="75" rx="10"/><rect x="635" y="370" width="145" height="80" rx="10"/><rect x="815" y="385" width="110" height="100" rx="10"/><rect x="680" y="490" width="110" height="85" rx="10"/><rect x="300" y="480" width="135" height="65" rx="10"/><rect x="245" y="590" width="125" height="75" rx="10"/></g>
+<path d="M660 0Q540 160 610 260T590 520Q535 620 620 720T550 1000" fill="none" stroke="#baddec" stroke-width="24"/>
+<g fill="none" stroke="#ded9c4" stroke-width="22"><path d="M0 650Q200 590 380 545T740 410L1200 280"/><path d="M740 0L735 410 785 650 710 1000"/><path d="M20 180L350 290 735 410 1050 750 1200 790"/></g>
+<g fill="none" stroke="#fff" stroke-width="14"><path d="M0 650Q200 590 380 545T740 410L1200 280"/><path d="M740 0L735 410 785 650 710 1000"/><path d="M20 180L350 290 735 410 1050 750 1200 790"/></g>
+<g fill="none" stroke="#fff" stroke-width="9"><path d="M460 210L950 210 1000 535 505 580Z"/><path d="M470 350L1020 350M450 475L970 475M870 200L850 610M660 200L650 610"/><path d="M180 490L490 490 465 700 170 700ZM280 460L300 760M120 610L490 610"/></g>
+<g fill="#7b8c79" font-family="sans-serif" font-size="24"><text x="180" y="130">黔中山地</text><text x="900" y="130">森林公园</text><text x="100" y="865">山地景观</text></g>
+<g fill="#576678" font-family="sans-serif" font-size="26" text-anchor="middle"><text x="760" y="375">贵阳市</text><text x="315" y="580">安顺市</text><text x="760" y="720">花溪区</text><text x="950" y="495">龙洞堡</text><text x="180" y="690">黄果树</text></g>
+<g fill="#d2b878" font-family="sans-serif" font-size="18"><text x="430" y="520">城市连接道路</text><text x="800" y="610">景区方向</text></g>
+</svg>
